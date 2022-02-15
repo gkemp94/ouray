@@ -1,0 +1,16 @@
+{
+  "name": "ouray",
+  "version": "0.0.1",
+  "description": "Open Source HubSpot Theme",
+  "main": "index.js",
+  "scripts": {
+    "dev": "hs watch src ouray --initial-upload",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@hubspot/cli": "^3.0.11"
+  }
+}
